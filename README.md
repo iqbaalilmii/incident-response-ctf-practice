@@ -1,3 +1,3 @@
 # incident-response-ctf-practice
 
-repo for my ctf challenge :)
+hi, welcome, this repo is for my ctf challenges :)
